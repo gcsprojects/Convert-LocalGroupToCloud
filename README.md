@@ -12,6 +12,5 @@
 ### EXAMPLE
     Convert-LocalGroupToCloud -GroupName "My Group To Change"
 
-### Requirements
-    Requires the Microsoft Graph Module
-    <https://www.powershellgallery.com/packages/Microsoft.Graph/2.31.0> 
+Requires Microsoft Graph Module: 
+<https://www.powershellgallery.com/packages/Microsoft.Graph/2.31.0> 
